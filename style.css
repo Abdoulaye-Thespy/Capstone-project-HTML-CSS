@@ -8,6 +8,16 @@ body {
   padding-left: 2rem;
 }
 
+.homelink {
+  color: #fff;
+  text-decoration: none;
+}
+
+.homelink:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
 .fas {
   padding-left: 1rem;
   padding-right: 5px;
@@ -122,10 +132,6 @@ footer form button {
   text-align: center;
   margin-top: 3rem;
   margin-bottom: 3rem;
-}
-
-.middle-div h4 {
-  color: #e62e00;
 }
 
 .grid-container {
@@ -284,7 +290,7 @@ footer .ul1 li a {
   margin-top: 8rem;
 }
 
-.first-div-after-nav-result-page h3 {
+.first-div-after-nav-result-page .result-header {
   text-align: center;
   padding: 2rem 0 2rem 0;
 }

@@ -1,7 +1,6 @@
 # Capstone-project-HTML-CSS
 -This is my captestone project on HTML and CSS curriculum in Microverse
 
-> This is a visual hierarchy heat-map of the Smashing Magazine home page
 ##The project is about a record for ARCHEOLOGICAL SITES in Cameroon
 
 ![screenshot](./images/1.jpg)
@@ -9,7 +8,7 @@
 ![screenshot](./images/3.jpg)
 ![screenshot](./images/4.jpg)
 ![screenshot](./images/5.jpg)
-![screenshot](./images/6.jpg)
+![screenshot](./images/66.jpg)
 ![screenshot](./images/7.jpg)
 ![screenshot](./images/8.jpg)
 ## Built With
