@@ -1,0 +1,44 @@
+@media (min-width: 1024px) {
+  .text{
+    display: inline;
+  }
+
+}
+
+@media (max-width: 1024px) {
+  .text {
+    display: none;
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .one-of-three-div,
+  .two-of-three-div,
+  .three-of-three-div {
+    display: grid;
+    grid-template-columns: 1fr;
+    height: 28rem;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .one-of-three-div img,
+  .two-of-three-div img,
+  .three-of-three-div img {
+    width: 14rem;
+    height: 14rem;
+    margin: auto;
+  }
+
+
+
+}
+
+@media (max-width: 990px) {
+
+}
+
+@media (max-width: 768px) {
+
+}
