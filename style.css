@@ -43,17 +43,18 @@ body {
 }
 
 .inside-first-div form label {
-
+  font-size: 18px;
+  font-weight: bold;
 }
 
 .inside-first-div form button {
   width: 6rem;
   height: 55px;
   background-color: #cc2900;
-  font-size: 18px;
+  font-size: 17px;
   color: white;
   border: none;
-  margin-left: -4px;
+  margin-left: -3px;
 }
 
 .btn {
