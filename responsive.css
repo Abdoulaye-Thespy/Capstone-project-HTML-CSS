@@ -17,8 +17,8 @@
   .one-of-three-div,
   .two-of-three-div,
   .three-of-three-div {
-    display: grid;
-    grid-template-columns: 1fr;
+    display: flex;
+    flex-direction: column;
     height: 28rem;
     justify-content: center;
     text-align: center;
