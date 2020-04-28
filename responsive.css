@@ -73,9 +73,6 @@
     flex-direction: column;
   }
 
-  .navbar .navbar-nav li a{
-  }
-
   .inside-footer {
     display: grid;
     grid-template-columns: 1fr;
@@ -119,5 +116,11 @@
   #inp {
     width: 98%;
     border-radius: 3px;
+  }
+}
+
+@media (max-width: 576px) {
+  .text {
+    display: inline;
   }
 }
