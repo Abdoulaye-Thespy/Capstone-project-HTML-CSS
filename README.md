@@ -1,16 +1,24 @@
 # Capstone-project-HTML-CSS
 -This is my captestone project on HTML and CSS curriculum in Microverse
 
-##The project is about a record for ARCHEOLOGICAL SITES in Cameroon
+## The project is about a record for ARCHEOLOGICAL SITES in Cameroon
 
-![screenshot](./images/1.jpg)
-![screenshot](./images/2.jpg)
-![screenshot](./images/3.jpg)
-![screenshot](./images/4.jpg)
-![screenshot](./images/5.jpg)
-![screenshot](./images/66.jpg)
-![screenshot](./images/7.jpg)
-![screenshot](./images/8.jpg)
+## In this particular project, we have three pages: The Home page, the result page and the detail page.
+
+## I the Home page, we can search for a particular ARCHEOLOGICAL SITE that we would like to visit.
+
+## The results of our search  are then shown on the result page, where can directly click on a particular result and be directed to the detail page where we can have much more details about that ARCHEOLOGICAL SITE in particular.
+
+## In the detail page, we will be able to see the schedule and how to acces the ARCHEOLOGICAL SITE and we can book a day to visit if we want.
+
+![screenshot](./images/10.png)
+![screenshot](./images/11.png)
+![screenshot](./images/13.png)
+![screenshot](./images/14.png)
+![screenshot](./images/15.pg)
+![screenshot](./images/66.png)
+![screenshot](./images/20.png)
+![screenshot](./images/18.png)
 ## Built With
 
 - HTML 5
@@ -64,7 +72,7 @@ Give a ⭐️ if you like this project!
 - sanitize.css creators for the web reset
 - w3school.com
 - https://www.thenextweb.com/
-- Design Mathew Njuguna and others on Behance
+- Design idea by Mathew Njuguna and others on Behance
 
 ## 📝 License
 

@@ -67,7 +67,6 @@
 }
 
 @media (max-width: 768px) {
-
   .navbar {
     display: flex;
     flex-direction: column;
@@ -116,11 +115,5 @@
   #inp {
     width: 98%;
     border-radius: 3px;
-  }
-}
-
-@media (max-width: 576px) {
-  .text {
-    display: inline;
   }
 }
