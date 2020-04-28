@@ -99,7 +99,7 @@
     grid-template-columns: 1fr;
   }
 
-  #btns {
+  .btns {
     display: block;
     width: 98%;
     margin-left: 0;
