@@ -2,6 +2,11 @@ body {
   font-family: 'Comic Neue', cursive;
 }
 
+button,
+input {
+  border: none;
+}
+
 .navbar {
   background-color: #f33;
   padding-right: 2rem;
@@ -55,7 +60,6 @@ body {
   height: 35px;
   font-size: 20px;
   background-color: #000;
-  border: none;
   border: 1px solid #a6a6a6;
 }
 
@@ -65,7 +69,6 @@ body {
   background-color: #a6a6a6;
   font-size: 17px;
   color: white;
-  border: none;
   margin-left: -4px;
   padding-top: 2px;
 }
@@ -75,7 +78,6 @@ body {
   height: 55px;
   font-size: 20px;
   background-color: #fff;
-  border: none;
 }
 
 .first-div-after-nav-result-page label {
@@ -102,7 +104,6 @@ body {
   background-color: #cc2900;
   font-size: 17px;
   color: white;
-  border: none;
   margin-left: -4px;
 }
 
@@ -117,7 +118,6 @@ body {
   margin-left: 40%;
   margin-top: 5rem;
   color: #333;
-  border: none;
 }
 
 .second-button a {
@@ -386,7 +386,6 @@ iframe {
   color: #fff;
   font-size: 15px;
   border-radius: 5px;
-  border: none;
 }
 
 .second-div-inside-detail {
