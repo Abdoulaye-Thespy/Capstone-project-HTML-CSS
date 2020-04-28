@@ -67,6 +67,15 @@
 }
 
 @media (max-width: 768px) {
+
+  .navbar {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .navbar .navbar-nav li a{
+  }
+
   .inside-footer {
     display: grid;
     grid-template-columns: 1fr;
